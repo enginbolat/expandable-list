@@ -5,7 +5,7 @@ import Animated, { interpolate, useAnimatedRef, useAnimatedStyle, useSharedValue
 import { Item, ItemProps } from './Item';
 
 export const SPRING_CONFIG = {
-    stiffness: 120,
+    stiffness: 340,
 };
 
 export type ExpandableMenuItemProps = {
